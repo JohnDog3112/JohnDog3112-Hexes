@@ -1,0 +1,261 @@
+{
+  "main": {
+    "id": "843cc1712c6e87b0",
+    "type": "split",
+    "children": [
+      {
+        "id": "4bd6ba8df761acef",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "036190350aa3d2f3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Hexes/Expand Hex.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "73eb562fb0ff3722",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sub-patterns/Codify Hex/Literal - Pattern Type.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "88e4816f48432483",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Print Hex Test 1.png"
+              }
+            }
+          },
+          {
+            "id": "74a47458fce82f38",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Sub-patterns/Codify Hex/Add Loop Compatibility.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "1df0085b886ca7c5",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Create Next Process Test 2.png"
+              }
+            }
+          },
+          {
+            "id": "e6a89aac03e3e012",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Create Next Process Test 1.png"
+              }
+            }
+          },
+          {
+            "id": "19be5492fa9ca841",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Images/Add Loop Compatibility Test 2.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "37711b11d0f3f08b",
+    "type": "split",
+    "children": [
+      {
+        "id": "98a404d014e76200",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "5912418c8344542d",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3880bb00a7c23bbc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c45afd9d34261ecc",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300.5
+  },
+  "right": {
+    "id": "b405929832712a49",
+    "type": "split",
+    "children": [
+      {
+        "id": "1436d0731ee322d3",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a13a3380b99e8f15",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Hexes/Expand Hex.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "28a82cacc20cf609",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Hexes/Expand Hex.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "5e1e8c5fbabedc4e",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "fc071e2b2dc436d5",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Hexes/Expand Hex.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "036190350aa3d2f3",
+  "lastOpenFiles": [
+    "Sub-patterns/Iota Storage/Literal - Storage Location.md",
+    "Sub-patterns/Codify Hex/Literal - Pattern Type.md",
+    "Sub-patterns/Iota Storage",
+    "Hexes/Print Hex.md",
+    "Hexes/Expand Hex.md",
+    "Sub-patterns/Codify Hex/Add Spacing.md",
+    "Untitled.canvas",
+    "2023-06-24.md",
+    "Sub-patterns/Codify Hex/Setup Spacing Operation.md",
+    "Images/Print Hex Test 1.png",
+    "Hexes/Push to Dictionary.md",
+    "Sub-patterns/Expand Hex/Expand Layer.md",
+    "Hexes",
+    "Sub-patterns/Codify Hex/Remove Spacing.md",
+    "Images/Print Hex Code.png",
+    "Sub-patterns/Codify Hex/Add Loop Compatibility.md",
+    "Sub-patterns/Codify Hex/Create Next Process.md",
+    "Images/Remove Spacing Code.png",
+    "Images/Create Next Process Test 2.png",
+    "Sub-patterns/Codify Hex/Spacing Dictionary.md",
+    "Sub-patterns/Codify Hex/Stringify Pattern.md",
+    "Sub-patterns/Loop Unrolling/Unroll 2048.md",
+    "Sub-patterns/Loop Unrolling/Cursed Unroll Loop.md",
+    "Sub-patterns/Codify Hex/Literal - Pattern Name Dictionary.md",
+    "Sub-patterns/Codify Hex/Literal - Spacing Constant.md",
+    "Images/Stringify Pattern Code.png",
+    "Sub-patterns/Codify Hex/Create Stringify Operation.md",
+    "Images/Create Next Process Code.png",
+    "Images/Create Next Process Test 1.png",
+    "Images/Create Next Process Pattern.png",
+    "Images/Add Loop Compatibility Code.png",
+    "Images/Add Loop Compatibility Test 2.png",
+    "Sub-patterns/Grab From Dictionary or Input.md",
+    "Setup Spacing Operation Code.png.md",
+    "Sub-patterns/Expand Sub-Lists.md",
+    "Sub-patterns/De-listify hex/Expand Next List.md",
+    "Sub-patterns/Expand Hex/Push into list.md",
+    "Sub-patterns/Expand Hex",
+    "Sub-patterns/Loop Unrolling",
+    "Cursed Unroll Loop Code.png.md",
+    "Hexes/Make literal.md",
+    "Sub-patterns/De-listify hex",
+    "Sub-patterns/Codify Hex",
+    "Images",
+    "Sub-patterns"
+  ]
+}

@@ -1,0 +1,195 @@
+{
+  "main": {
+    "id": "3175fbdf2e324227",
+    "type": "split",
+    "children": [
+      {
+        "id": "d358f80fbed0f8b5",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a901ef269baaf81d",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          },
+          {
+            "id": "a9d0c46fcf0dbb7e",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "Completed/Images/Retrieve Item.png"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "688a92ee5602c4f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "2a8d48b035e0e146",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe19786cd69dee67",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "703287565fbe693e",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "75dc5ae3b8b03ef0",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eae6a27ec12c29a3",
+    "type": "split",
+    "children": [
+      {
+        "id": "3baf37e24129caaa",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4e79e9d7f00ea1ab",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "ae05ca364d9ca558",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "7165108857fdeafa",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "0f7fefc6367ec4c2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a901ef269baaf81d",
+  "lastOpenFiles": [
+    "Completed/Literals/Literal - No Matches.md",
+    "Completed/Retrieve Item.md",
+    "Completed/Unroll Loop.md",
+    "Completed/Images/Retrieve Item.png",
+    "Completed/Images/Unroll Loop logo.png",
+    "Completed/Images/Unroll Loop.png",
+    "Completed/Add Padding.md",
+    "Testing/Unroll Loop.md",
+    "Testing/Images/Unroll Loop 3.png",
+    "Testing/Images/Unroll Loop 2.png",
+    "Completed/Ensure Number.md",
+    "Completed/Parse Input.md",
+    "Completed/Split Argument.md",
+    "Completed/Parse Item.md",
+    "Completed/Check next item.md",
+    "Completed/Check For Valid Item.md",
+    "Completed/Images/Check For Valid Item.png",
+    "Check For Valid Item.png.md",
+    "Completed/Images/Literal - No Matches logo.png",
+    "Testing/Check For Valid Item.md",
+    "Completed/Send Item.md",
+    "Completed/Literals/Literal - Too Many Matches.md",
+    "Completed/Literals",
+    "Completed/Images/Send Item.png",
+    "Completed/Images/Send Item logo.png",
+    "Testing/Send Item.md",
+    "Completed/Images/Check For Valid Item.png",
+    "Completed/Literals/Forward Slash.md",
+    "Completed/Literals/Backward Slash.md",
+    "Testing/Check next item.md",
+    "Testing/Ensure Number.md",
+    "Testing/Split Argument.md",
+    "Ensure Number.png.md",
+    "Testing/Add Padding.md",
+    "Completed/Images",
+    "Testing/Images",
+    "Images/Completed",
+    "Images/Testing",
+    "Images",
+    "Testing",
+    "Completed"
+  ]
+}

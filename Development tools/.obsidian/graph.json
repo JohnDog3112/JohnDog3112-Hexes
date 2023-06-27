@@ -1,0 +1,58 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "Path:Hexes",
+      "color": {
+        "a": 1,
+        "rgb": 14701138
+      }
+    },
+    {
+      "query": "Path:\"Sub-patterns/Codify Hex\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431406
+      }
+    },
+    {
+      "query": "Path:\"Sub-patterns/De-listify hex\"",
+      "color": {
+        "a": 1,
+        "rgb": 11657298
+      }
+    },
+    {
+      "query": "Path:\"Sub-patterns/Expand Hex\"",
+      "color": {
+        "a": 1,
+        "rgb": 5431473
+      }
+    },
+    {
+      "query": "Path:\"Sub-patterns\"",
+      "color": {
+        "a": 1,
+        "rgb": 14701188
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": true,
+  "textFadeMultiplier": -2.3,
+  "nodeSizeMultiplier": 1.22291666666667,
+  "lineSizeMultiplier": 5,
+  "collapse-forces": false,
+  "centerStrength": 0.213541666666667,
+  "repelStrength": 9.375,
+  "linkStrength": 0.395833333333333,
+  "linkDistance": 32,
+  "scale": 0.5087618855792646,
+  "close": false
+}
