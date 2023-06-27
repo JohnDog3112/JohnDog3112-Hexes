@@ -6,10 +6,10 @@ Summary:
 \--If there is more than one list or zero lists, return corresponding error
 \--Otherwise, return first mote in the only available list
 
-![[Check For Valid Item logo.png]]
+![Check For Valid Item logo](Images/Check%20For%20Valid%20Item%20logo.png)
 
 
-![[Check For Valid Item.png]]
+![Check For Valid Item](Images/Check%20For%20Valid%20Item.png)
 
 Code:
 * Gemini Decomposition
@@ -25,7 +25,7 @@ Code:
 * }
 * {
 	* Reveal
-	* [[Literal - Too Many Matches]]
+	* [Literal - Too Many Matches](Literals/Literal%20-%20Too%20Many%20Matches.md)
 	* Reveal
 	* Bookkeeper's Gambit: vvv
 	* True Reflection
@@ -36,7 +36,7 @@ Code:
 * Equality Distillation
 * Jester's Gambit
 * {
-	* [[Literal - No Matches]]
+	* [Literal - No Matches](Literals/Literal%20-%20No%20Matches.md)
 	* Reveal
 	* Bookkeeper's Gambit: vvv
 	* True Reflection
@@ -54,5 +54,3 @@ Code:
 * Flock's Disintegration
 * Augur's Exaltation
 * Hermes' Gambit
-
-Testing:[[Testing/Check For Valid Item|Check For Valid Item]]

@@ -4,8 +4,8 @@ Syntax:
 Summary:
 \--Crashes if there is no space in given string
 \--Splits off the first item separated by a space in a string
-![[Split Argument logo.png]]
-![[Split Argument.png]]
+![Split Argument logo](Images/Split%20Argument%20logo.png)
+![Split Argument](Images/Split%20Argument.png)
 Code:
 ``` 
 Gemini Decomposition
@@ -30,4 +30,3 @@ Fisherman's Gambit
 Jester's Gambit
 Winnowing Distillation
 ```
-Testing: [[Testing/Split Argument|Split Argument]]

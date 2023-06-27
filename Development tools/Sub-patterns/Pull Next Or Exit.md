@@ -1,7 +1,7 @@
 Syntax:
 (List) -> (List, Item) | (Exit with charrons)
-![[Pull Next Or Exit Pattern.png]]
-![[Pull Next or Exit Code.png]]
+![Pull Next Or Exit Pattern](../Images/Pull%20Next%20Or%20Exit%20Pattern.png)
+![Pull Next or Exit Code](../Images/Pull%20Next%20or%20Exit%20Code.png)
 
 
 Code:

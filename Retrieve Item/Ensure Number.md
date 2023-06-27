@@ -7,8 +7,8 @@ Summary:
 \--If there isn't a number in the inputs, re-merge inputs and insert a 1
 \-- otherwise, just parse the number
 
-![[Ensure Number logo.png]]
-![[Ensure Number.png]]
+![Ensure Number logo](Images/Ensure%20Number%20logo.png)
+![Ensure Number](Images/Ensure%20Number.png)
 Code:
 ```
 Jester's Gambit
@@ -43,4 +43,3 @@ Flock's Gambit
 Augur's Exaltation
 Flock's Disintegration
 ```
-Testing: [[Testing/Ensure Number|Ensure Number]]

@@ -4,8 +4,8 @@ List, num, List -> List
 Description
 \--Inserts the second list into the first at the given position (removes what was there)
 
-![Push into List Pattern](Push%20into%20List%20Pattern.png)
-![Push into List Code](Push%20into%20List%20Code.png)
+![Push into List Pattern](../../Images/Push%20into%20List%20Pattern.png)
+![Push into List Code](../../Images/Push%20into%20List%20Code.png)
 Code:
 ```
 Numerical Reflection: 3

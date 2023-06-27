@@ -5,9 +5,9 @@ Description:
 \--If item is a list, expand inside intro/retro block
 \--Otherwise, just have the item in a list
 
-![[Put list in intro retro Pattern.png]]
+![Put list in intro retro Pattern](../../Images/Put%20list%20in%20intro%20retro%20Pattern.png)
 
-![[Put list in intro retro code.png]]
+![Put list in intro retro code](../../Images/Put%20list%20in%20intro%20retro%20code.png)
 
 Code:
 ```

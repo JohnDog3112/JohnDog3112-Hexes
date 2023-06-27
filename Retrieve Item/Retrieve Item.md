@@ -8,23 +8,23 @@ Summary:
 * \\ and / are used as must match from start and must match from end respectively
 * If there are 0 or more than 1 matching items, an error is returned
 
-![[Retrieve Item.png]]
+![Retrieve Item](Images/Retrieve%20Item.png)
 Code:
 * Whisper Reflection
-* [[Parse Input]]
+* [Parse Input Logo](Images/Parse%20Input%20Logo.png)
 * Vacant Reflection
 * Stocktake Reflection
 * Gemini Decomposition
 * Abacus Purification
 * {
-	* [[Completed/Check next item|Check next item]]
+	* [Check next item](Check%20next%20item.md)
 * }
 * Jester's Gambit
-* [[Completed/Unroll Loop|Unroll Loop]]
+* [Unroll Loop](Unroll%20Loop.md)
 * Hermes' Gambit
 * Bookkeeper's Gambit: v-v
-* [[Completed/Check For Valid Item|Check For Valid Item]]
-* [[Completed/Send Item|Send Item]]
+* [Check For Valid Item](Check%20For%20Valid%20Item.md)
+* [Send Item](Send%20Item.md)
 
 Compiled:
 ```

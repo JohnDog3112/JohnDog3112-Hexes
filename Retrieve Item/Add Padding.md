@@ -3,8 +3,8 @@ Syntax:
 
 Summary:
 --Adds a space if there are none present
-![[Add Padding Logo.png]]
-![[Add Padding.png]]
+![Add Padding Logo](Images/Add%20Padding%20Logo.png)
+![Add Padding](Images/Add%20Padding.png)
 Code:
 ```
 Gemini Decomposition
@@ -16,5 +16,3 @@ Spacing Reflection
 Blank Reflection
 Augur's Exaltation
 Concatenation Distillation
-```
-Testing: [[Testing/Add Padding|Add Padding]]

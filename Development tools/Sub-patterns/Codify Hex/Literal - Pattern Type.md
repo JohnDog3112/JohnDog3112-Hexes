@@ -2,6 +2,6 @@ Syntax:
 () -> (Pattern Type)
 
 Description:
-\--[[Literals]] for Pattern Type
+\--[Literals](../Literals.md) for Pattern Type
 
-![[Literal - Pattern Type.png]]
+![Literal - Pattern Type](../../Images/Literal%20-%20Pattern%20Type.png)

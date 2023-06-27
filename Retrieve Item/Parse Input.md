@@ -6,11 +6,11 @@ Summary:
 \--As long as the input is a string, it won't crash
 
 Symbol:
-![[Parse Input Logo.png]]
+![Parse Input Logo](Images/Parse%20Input%20Logo.png)
 ![[Parse Input.png]]
 Code:
 >
-[[Completed/Add Padding|Add Padding]]
-[[Completed/Split Argument|Split Argument]]
-[[Completed/Ensure Number|Ensure Number]]
+[Add Padding](Add%20Padding.md)
+[Split Argument](Split%20Argument.md)
+[Ensure Number](Ensure%20Number.md)
 

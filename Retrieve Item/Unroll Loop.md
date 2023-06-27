@@ -3,9 +3,9 @@ Syntax:
 
 Summary:
 \--Copies a list n times and merges it into one list
-![[Unroll Loop logo.png]]
+![Unroll Loop logo](Images/Unroll%20Loop%20logo.png)
 
-![[Unroll Loop.png]]
+![Unroll Loop](Images/Unroll%20Loop.png)
 
 Code:
 ```
@@ -31,5 +31,3 @@ Hermes' Gambit
 Jester's Gambit
 Huginn's Gambit
 ```
-
-Testing: [[Testing/Unroll Loop|Unroll Loop]]

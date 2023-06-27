@@ -5,9 +5,9 @@ Summary:
 \--Given a key and dictionary, returns corresponding element or the input
 
 
-![[Grab From Dict or Input Pattern.png]]
+![Grab From Dict or Input Pattern](../Images/Grab%20From%20Dict%20or%20Input%20Pattern.png)
 
-![[Grab From Dict or Input Code.png]]
+![Grab From Dict or Input Code](../Images/Grab%20From%20Dict%20or%20Input%20Code.png)
 
 Code:
 ```

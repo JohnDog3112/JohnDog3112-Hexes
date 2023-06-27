@@ -5,10 +5,10 @@ Description:
 \--Stringifies the patterns and prints the array out
 
 
-![[Print Hex Code.png]]
+![Print Hex Code](../Images/Print%20Hex%20Code.png)
 
 Code:
-* [[Expand Sub-Lists]]
+* [Expand Sub-Lists](../Sub-patterns/Expand%20Sub-Lists.md)
 * Vacant Reflection
 * Blank Reflection
 * Huginn's Gambit
@@ -19,10 +19,10 @@ Code:
 * Gemini Decomposition
 * Abacus Purification
 * {
-	* [[Create Next Process]]
+	* [Create Next Process Code](../Images/Create%20Next%20Process%20Code.png)
 * }
 * Jester's Gambit
-* [[Cursed Unroll Loop]]
+* [Cursed Unroll Loop](../Sub-patterns/Loop%20Unrolling/Cursed%20Unroll%20Loop.md)
 * Hermes' Gambit
 * Bookkeeper's Gambit: v
 * Hermes' Gambit

@@ -3,8 +3,8 @@ Syntax:
 
 Description:
 \--Remove's the next pattern to expand, finds it's corresponding patterns, and inserts it into the hex
-![Expand Next Pattern Logo](Expand%20Next%20Pattern%20Logo.png)
-![Expand Next Pattern Code](Expand%20Next%20Pattern%20Code.png)
+![Expand Next Pattern Logo](../../Images/Expand%20Next%20Pattern%20Logo.png)
+![Expand Next Pattern Code](../../Images/Expand%20Next%20Pattern%20Code.png)
 
 Code:
 * Speaker's Decomposition

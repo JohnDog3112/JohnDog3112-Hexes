@@ -1,10 +1,10 @@
 "No Matches Found"
 
 Symbol:
-![[Literal - No Matches logo.png]]
+![Literal - No Matches logo](../Images/Literal%20-%20No%20Matches%20logo.png)
 
 Where the one is "No Matches Found"
-![[Literal Code.png]]
+![Literal Code](../Images/Literal%20Code.png)
 
 Code:
 > {

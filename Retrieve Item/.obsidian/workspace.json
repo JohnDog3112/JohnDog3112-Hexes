@@ -8,20 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "a901ef269baaf81d",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {}
-            }
-          },
-          {
             "id": "a9d0c46fcf0dbb7e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Completed/Images/Retrieve Item.png"
+                "file": "Add Padding.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -91,6 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Add Padding.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -107,6 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Add Padding.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -128,7 +124,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Add Padding.md"
+              }
             }
           }
         ]
@@ -148,8 +146,25 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "a901ef269baaf81d",
+  "active": "a9d0c46fcf0dbb7e",
   "lastOpenFiles": [
+    "Check For Valid Item.md",
+    "Check next item.md",
+    "Ensure Number.md",
+    "Parse Input.md",
+    "Parse Item.md",
+    "Retrieve Item.md",
+    "Send Item.md",
+    "Split Argument.md",
+    "Unroll Loop.md",
+    "Completed/Images/Check next item.png.md",
+    "Completed/Images",
+    "Completed",
+    "Add Padding.md",
+    "Literals/Literal - Too Many Matches.md",
+    "Literals/Literal - No Matches.md",
+    "Literals/Forward Slash.md",
+    "Literals/Backward Slash.md",
     "Completed/Literals/Literal - No Matches.md",
     "Completed/Retrieve Item.md",
     "Completed/Unroll Loop.md",
@@ -167,29 +182,15 @@
     "Completed/Check next item.md",
     "Completed/Check For Valid Item.md",
     "Completed/Images/Check For Valid Item.png",
-    "Check For Valid Item.png.md",
     "Completed/Images/Literal - No Matches logo.png",
-    "Testing/Check For Valid Item.md",
-    "Completed/Send Item.md",
-    "Completed/Literals/Literal - Too Many Matches.md",
     "Completed/Literals",
     "Completed/Images/Send Item.png",
     "Completed/Images/Send Item logo.png",
-    "Testing/Send Item.md",
     "Completed/Images/Check For Valid Item.png",
-    "Completed/Literals/Forward Slash.md",
-    "Completed/Literals/Backward Slash.md",
-    "Testing/Check next item.md",
-    "Testing/Ensure Number.md",
-    "Testing/Split Argument.md",
-    "Ensure Number.png.md",
-    "Testing/Add Padding.md",
-    "Completed/Images",
     "Testing/Images",
     "Images/Completed",
     "Images/Testing",
     "Images",
-    "Testing",
-    "Completed"
+    "Testing"
   ]
 }
