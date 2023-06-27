@@ -23,13 +23,3 @@ Integration Distillation
 Flock's Disintegration
 Combination Distillation
 ```
-
-
-Testing/Development:
-
-![[Make literal test 1.png]]
-
-
-![[Make literal test 2.png]]
-
-![[Make literal test 3.png]]

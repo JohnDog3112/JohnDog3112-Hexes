@@ -3,9 +3,9 @@ Syntax:
 
 Summary:
 \--Copies a list n times and merges it into one list
-![[Unroll Loop logo.png]]
+![Unroll Loop logo](Unroll%20Loop%20logo.png)
 
-![[Unroll Loop.png]]
+![Cursed Unroll Loop Code](Cursed%20Unroll%20Loop%20Code.png)]
 
 Code:
 ```

@@ -19,5 +19,3 @@ Numerical Reflection: 3
 Fisherman's Gambit
 Combination Distillation
 ```
-Testing:
-![[Merge Next List Test 1.png]]

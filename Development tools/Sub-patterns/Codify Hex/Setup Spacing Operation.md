@@ -27,5 +27,3 @@ Code:
 * 	Concatenation Distillation
 * }
 * Combination Distillation
-Testing:
-![[Setup Spacing Operation Test 1.png]]

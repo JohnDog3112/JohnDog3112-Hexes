@@ -30,5 +30,3 @@ Additive Distillation
 Selection Exaltation
 Flock's Disintegration
 ```
-Testing:
-![[Grab From Dict or Input.png]]

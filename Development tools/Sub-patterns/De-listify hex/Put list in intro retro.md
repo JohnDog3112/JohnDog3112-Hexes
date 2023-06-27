@@ -43,8 +43,3 @@ Integration Distillation
 Jester's Gambit
 Augur's Exaltation
 ```
-
-Testing:
-
-![[Put list in intro retro Test 1.png]]
-![[Put list in intro retro Test 2.png]]

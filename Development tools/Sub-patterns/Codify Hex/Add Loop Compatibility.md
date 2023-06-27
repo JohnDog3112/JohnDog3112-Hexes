@@ -26,7 +26,3 @@ Combination Distillation
 }
 Combination Distillation
 ```
-Testing:
-![[Add Loop Compatibility Test 1.png]]
-
-![[Add Loop Compatibility Test 2.png]]

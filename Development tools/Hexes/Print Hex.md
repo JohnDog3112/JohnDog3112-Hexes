@@ -293,5 +293,3 @@ Bookkeeper's Gambit: v
 Reveal
 Bookkeeper's Gambit: v
 ```
-Testing:
-![[Print Hex Test 1.png]]

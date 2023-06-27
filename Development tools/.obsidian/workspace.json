@@ -8,78 +8,14 @@
         "type": "tabs",
         "children": [
           {
-            "id": "036190350aa3d2f3",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Hexes/Expand Hex.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
             "id": "73eb562fb0ff3722",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Sub-patterns/Codify Hex/Literal - Pattern Type.md",
+                "file": "Hexes/Print Hex.md",
                 "mode": "source",
                 "source": false
-              }
-            }
-          },
-          {
-            "id": "88e4816f48432483",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Print Hex Test 1.png"
-              }
-            }
-          },
-          {
-            "id": "74a47458fce82f38",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Sub-patterns/Codify Hex/Add Loop Compatibility.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "1df0085b886ca7c5",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Create Next Process Test 2.png"
-              }
-            }
-          },
-          {
-            "id": "e6a89aac03e3e012",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Create Next Process Test 1.png"
-              }
-            }
-          },
-          {
-            "id": "19be5492fa9ca841",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "Images/Add Loop Compatibility Test 2.png"
               }
             }
           }
@@ -133,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5
+    "width": 549.5
   },
   "right": {
     "id": "b405929832712a49",
@@ -149,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hexes/Expand Hex.md",
+                "file": "Hexes/Print Hex.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -166,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hexes/Expand Hex.md",
+                "file": "Hexes/Print Hex.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -189,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hexes/Expand Hex.md"
+                "file": "Hexes/Print Hex.md"
               }
             }
           }
@@ -210,49 +146,49 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "036190350aa3d2f3",
+  "active": "73eb562fb0ff3722",
   "lastOpenFiles": [
-    "Sub-patterns/Iota Storage/Literal - Storage Location.md",
-    "Sub-patterns/Codify Hex/Literal - Pattern Type.md",
-    "Sub-patterns/Iota Storage",
-    "Hexes/Print Hex.md",
+    "Hexes/Make literal.md",
     "Hexes/Expand Hex.md",
-    "Sub-patterns/Codify Hex/Add Spacing.md",
-    "Untitled.canvas",
-    "2023-06-24.md",
-    "Sub-patterns/Codify Hex/Setup Spacing Operation.md",
-    "Images/Print Hex Test 1.png",
-    "Hexes/Push to Dictionary.md",
     "Sub-patterns/Expand Hex/Expand Layer.md",
-    "Hexes",
-    "Sub-patterns/Codify Hex/Remove Spacing.md",
-    "Images/Print Hex Code.png",
-    "Sub-patterns/Codify Hex/Add Loop Compatibility.md",
-    "Sub-patterns/Codify Hex/Create Next Process.md",
-    "Images/Remove Spacing Code.png",
-    "Images/Create Next Process Test 2.png",
-    "Sub-patterns/Codify Hex/Spacing Dictionary.md",
-    "Sub-patterns/Codify Hex/Stringify Pattern.md",
-    "Sub-patterns/Loop Unrolling/Unroll 2048.md",
-    "Sub-patterns/Loop Unrolling/Cursed Unroll Loop.md",
-    "Sub-patterns/Codify Hex/Literal - Pattern Name Dictionary.md",
-    "Sub-patterns/Codify Hex/Literal - Spacing Constant.md",
-    "Images/Stringify Pattern Code.png",
-    "Sub-patterns/Codify Hex/Create Stringify Operation.md",
-    "Images/Create Next Process Code.png",
-    "Images/Create Next Process Test 1.png",
-    "Images/Create Next Process Pattern.png",
-    "Images/Add Loop Compatibility Code.png",
-    "Images/Add Loop Compatibility Test 2.png",
-    "Sub-patterns/Grab From Dictionary or Input.md",
-    "Setup Spacing Operation Code.png.md",
-    "Sub-patterns/Expand Sub-Lists.md",
-    "Sub-patterns/De-listify hex/Expand Next List.md",
+    "Sub-patterns/Loop Unrolling/Unroll Loop.md",
+    "Sub-patterns/Expand Hex/Expand Next Pattern.md",
     "Sub-patterns/Expand Hex/Push into list.md",
+    "Sub-patterns/Expand Hex/Get Patterns to Extend.md",
+    "Hexes/Push to Dictionary.md",
+    "Hexes/Print Hex.md",
+    "Sub-patterns/Loop Unrolling/Cursed Unroll Loop.md",
+    "Sub-patterns/Codify Hex/Create Next Process.md",
+    "Sub-patterns/Codify Hex/Add Loop Compatibility.md",
+    "Sub-patterns/Codify Hex/Setup Spacing Operation.md",
+    "Sub-patterns/Grab From Dictionary or Input.md",
+    "Sub-patterns/Codify Hex/Spacing Dictionary.md",
+    "Sub-patterns/Codify Hex/Remove Spacing.md",
+    "Sub-patterns/Codify Hex/Create Stringify Operation.md",
+    "Sub-patterns/Codify Hex/Stringify Pattern.md",
+    "Images/Grab From Dict or Input.png",
+    "Sub-patterns/Codify Hex/Literal - Pattern Name Dictionary.md",
+    "Sub-patterns/Codify Hex/Literal - Pattern Type.md",
+    "Sub-patterns/Expand Sub-Lists.md",
+    "Sub-patterns/Loop Unrolling/Unroll 2048.md",
+    "Sub-patterns/De-listify hex/Expand Next List.md",
+    "Sub-patterns/De-listify hex/Merge Next List.md",
+    "Sub-patterns/De-listify hex/Put list in intro retro.md",
+    "Sub-patterns/Pull Next Or Exit.md",
+    "Images/Stringify Pattern Test 1.png",
+    "Images/Setup Spacing Operation Test 1.png",
+    "Images/Put list in intro retro Test 1.png",
+    "Images/Push to Dictionary Test 1.png",
+    "Images/Push into List test 1.png",
+    "Images/Print Hex Test 1.png",
+    "Images/Merge Next List Test 1.png",
+    "Images/Make literal test 1.png",
+    "Images/Expand Sub-Lists Test 1.png",
+    "Sub-patterns/Iota Storage",
+    "Untitled.canvas",
+    "Hexes",
     "Sub-patterns/Expand Hex",
     "Sub-patterns/Loop Unrolling",
-    "Cursed Unroll Loop Code.png.md",
-    "Hexes/Make literal.md",
     "Sub-patterns/De-listify hex",
     "Sub-patterns/Codify Hex",
     "Images",

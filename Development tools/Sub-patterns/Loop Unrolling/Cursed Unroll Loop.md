@@ -21,7 +21,3 @@ Code:
 * Numerical Reflection: 0
 * Jester's Gambit
 * Selection Exaltation
-Testing:
-![[Cursed Unroll Loop Test 1.png]]
-
-![[Cursed Unroll Loop Test 2.png]]

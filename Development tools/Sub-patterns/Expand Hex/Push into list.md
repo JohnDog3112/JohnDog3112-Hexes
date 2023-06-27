@@ -4,8 +4,8 @@ List, num, List -> List
 Description
 \--Inserts the second list into the first at the given position (removes what was there)
 
-![[Push into List Pattern.png]]
-![[Push into List Code.png]]
+![Push into List Pattern](Push%20into%20List%20Pattern.png)
+![Push into List Code](Push%20into%20List%20Code.png)
 Code:
 ```
 Numerical Reflection: 3
@@ -30,7 +30,3 @@ Jester's Gambit
 Combination Distillation
 Combination Distillation
 ```
-
-Testing/Developing:
-![[Push into List test 1.png]]
-![[Push into list test 2.png]]

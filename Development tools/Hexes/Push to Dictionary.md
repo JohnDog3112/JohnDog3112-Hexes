@@ -41,8 +41,3 @@ Equality Distillation
 Augur's Exaltation
 Hermes' Gambit
 ```
-Testing/Development:
-![[Push to Dictionary Test 1.png]]
-
-![[Push to Dictionary test 2.png]]
-![[Push to Dictionary test 3.png]]![[Push to Dictionary test 4.png]]

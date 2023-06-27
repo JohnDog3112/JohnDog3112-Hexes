@@ -14,5 +14,3 @@ Code:
 * Hermes' Gambit
 * Bookkeeper's Gambit: vv
   
-Testing:
-![[Expand Sub-Lists Test 1.png]]

@@ -16,7 +16,3 @@ Code:
 	* Scrivener's Purification
 * }
 * Augur's Exaltation
-Testing:
-![[Create Stringify Operation Test 1.png]]
-
-![[Create Stringify Operation Test 2.png]]

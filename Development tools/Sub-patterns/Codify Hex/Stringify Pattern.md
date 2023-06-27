@@ -24,7 +24,3 @@ Code:
 * Gemini Decomposition
 * [[Grab From Dictionary or Input]]
 
-
-Testing:
-![[Stringify Pattern Test 1.png]]
-![[Stringify Pattern Test 2.png]]

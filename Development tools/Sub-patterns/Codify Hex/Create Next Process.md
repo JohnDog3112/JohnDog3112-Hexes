@@ -23,7 +23,3 @@ Code:
 * Jester's Gambit
 
 
-Testing:
-![[Create Next Process Test 1.png]]
-
-![[Create Next Process Test 2.png]]

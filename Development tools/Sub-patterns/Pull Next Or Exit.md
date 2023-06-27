@@ -17,6 +17,3 @@ Flock's Disintegration
 Augur's Exaltation
 Hermes' Gambit
 ```
-
-Testing:
-![[Pull Next Or Exit Test 1.png]]

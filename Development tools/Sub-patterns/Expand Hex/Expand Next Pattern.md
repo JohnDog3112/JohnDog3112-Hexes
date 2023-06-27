@@ -3,8 +3,8 @@ Syntax:
 
 Description:
 \--Remove's the next pattern to expand, finds it's corresponding patterns, and inserts it into the hex
-![[Expand Next Pattern Logo.png]]
-![[Expand Next Pattern Code.png]]
+![Expand Next Pattern Logo](Expand%20Next%20Pattern%20Logo.png)
+![Expand Next Pattern Code](Expand%20Next%20Pattern%20Code.png)
 
 Code:
 * Speaker's Decomposition
@@ -31,9 +31,6 @@ Code:
 * Jester's Gambit
 * Numerical Reflection: 3
 * Fisherman's Gambit
-* [[Push into list]]
+* [Push into list](Push%20into%20list.md)
 * Jester's Gambit
 
-
-Testing/Developing:
-![[Expand Next Pattern test 1.png]]
