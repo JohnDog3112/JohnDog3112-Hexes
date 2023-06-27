@@ -5,7 +5,7 @@ Description:
 \--Uses loop unrolling to expand one layer of patterns in the hex
 \--Stops execution if there aren't any patterns to expand
 
-![Expand Layer Logo](../../Images/Expand%20Layer%20Logo.png)]
+![Expand Layer Logo](../../Images/Expand%20Layer%20Logo.png)
 
 
 ![Expand Layer Code](../../Images/Expand%20Layer%20Code.png)

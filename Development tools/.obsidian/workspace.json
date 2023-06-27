@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexes/Expand Hex.md",
+                "file": "Sub-patterns/Pull Next Or Exit.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hexes/Expand Hex.md",
+                "file": "Sub-patterns/Pull Next Or Exit.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hexes/Expand Hex.md",
+                "file": "Sub-patterns/Pull Next Or Exit.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hexes/Expand Hex.md"
+                "file": "Sub-patterns/Pull Next Or Exit.md"
               }
             }
           }
@@ -148,18 +148,27 @@
   },
   "active": "73eb562fb0ff3722",
   "lastOpenFiles": [
+    "Sub-patterns/Expand Hex/Get Patterns to Extend.md",
     "Sub-patterns/Pull Next Or Exit.md",
+    "Sub-patterns/Codify Hex/Literal - Spacing Constant.md",
+    "Sub-patterns/Codify Hex/Literal - Pattern Type.md",
+    "Get/ Patterns/ to/ Extend.md",
+    "Get/ Patterns/ to",
+    "Get/ Patterns",
+    "Get",
     "Sub-patterns/Literals.md",
     "Sub-patterns/Grab From Dictionary or Input.md",
+    "Sub-patterns/Expand Hex/Expand Layer.md",
+    "Sub-patterns/Codify Hex/Create Stringify Operation.md",
+    "Hexes/Push to Dictionary.md",
+    "Hexes/Expand Hex.md",
     "Sub-patterns/Expand Sub-Lists.md",
     "Sub-patterns/Loop Unrolling/Unroll Loop.md",
     "Sub-patterns/Loop Unrolling/Unroll 2048.md",
     "Sub-patterns/Loop Unrolling/Cursed Unroll Loop.md",
     "Sub-patterns/Iota Storage/Literal - Storage Location.md",
     "Sub-patterns/Expand Hex/Push into list.md",
-    "Sub-patterns/Expand Hex/Get Patterns to Extend.md",
     "Sub-patterns/Expand Hex/Expand Next Pattern.md",
-    "Sub-patterns/Expand Hex/Expand Layer.md",
     "Sub-patterns/De-listify hex/Put list in intro retro.md",
     "Sub-patterns/De-listify hex/Merge Next List.md",
     "Sub-patterns/De-listify hex/Expand Next List.md",
@@ -167,13 +176,7 @@
     "Sub-patterns/Codify Hex/Spacing Dictionary.md",
     "Sub-patterns/Codify Hex/Setup Spacing Operation.md",
     "Sub-patterns/Codify Hex/Remove Spacing.md",
-    "Sub-patterns/Codify Hex/Literal - Spacing Constant.md",
-    "Sub-patterns/Codify Hex/Literal - Pattern Type.md",
     "Sub-patterns/Codify Hex/Literal - Pattern Name Dictionary.md",
-    "Sub-patterns/Codify Hex/Create Stringify Operation.md",
-    "Sub-patterns/Codify Hex/Create Next Process.md",
-    "Sub-patterns/Codify Hex/Add Spacing.md",
-    "Sub-patterns/Codify Hex/Add Loop Compatibility.md",
     "Images/Grab From Dict or Input.png",
     "Images/Stringify Pattern Test 1.png",
     "Images/Setup Spacing Operation Test 1.png",
@@ -191,7 +194,6 @@
     "Sub-patterns/Loop Unrolling",
     "Sub-patterns/De-listify hex",
     "Sub-patterns/Codify Hex",
-    "Images",
-    "Sub-patterns"
+    "Images"
   ]
 }

@@ -5,6 +5,7 @@ Syntax:
 
 Description:
 \--Inserts or replaces entry into dictionary based on key
+
 ![Push to Dictionary Logo](../Images/Push%20to%20Dictionary%20Logo.png)
 ![Push to Dictionary Code](../Images/Push%20to%20Dictionary%20Code.png)
 Code:
