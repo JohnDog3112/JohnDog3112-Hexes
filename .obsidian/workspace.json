@@ -1,39 +1,52 @@
 {
   "main": {
-    "id": "843cc1712c6e87b0",
+    "id": "97a4b6fab08e91d5",
     "type": "split",
     "children": [
       {
-        "id": "4bd6ba8df761acef",
+        "id": "96f4a29354196e82",
         "type": "tabs",
         "children": [
           {
-            "id": "73eb562fb0ff3722",
+            "id": "30cefe5a98f20485",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Hexes/Expand Hex.md",
+                "file": "Type Checking/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "edc03531cfbcd57b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Type Checking/Repeat Types.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
   },
   "left": {
-    "id": "37711b11d0f3f08b",
+    "id": "f5d8f82029f9acd6",
     "type": "split",
     "children": [
       {
-        "id": "98a404d014e76200",
+        "id": "2fc2cd4610abb4e7",
         "type": "tabs",
         "children": [
           {
-            "id": "5912418c8344542d",
+            "id": "c58d840993107ea6",
             "type": "leaf",
             "state": {
               "type": "file-explorer",
@@ -43,7 +56,7 @@
             }
           },
           {
-            "id": "3880bb00a7c23bbc",
+            "id": "6972af1bc44285f8",
             "type": "leaf",
             "state": {
               "type": "search",
@@ -58,7 +71,7 @@
             }
           },
           {
-            "id": "c45afd9d34261ecc",
+            "id": "b2a0cd5dffc8a5c4",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -69,23 +82,23 @@
       }
     ],
     "direction": "horizontal",
-    "width": 549.5
+    "width": 300
   },
   "right": {
-    "id": "b405929832712a49",
+    "id": "9f688670efd4461b",
     "type": "split",
     "children": [
       {
-        "id": "1436d0731ee322d3",
+        "id": "34697f1f9b5bd93f",
         "type": "tabs",
         "children": [
           {
-            "id": "a13a3380b99e8f15",
+            "id": "8e7c51f4a5bbc895",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Hexes/Expand Hex.md",
+                "file": "Type Checking/Overview.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,19 +110,19 @@
             }
           },
           {
-            "id": "28a82cacc20cf609",
+            "id": "956839207ee41992",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Hexes/Expand Hex.md",
+                "file": "Type Checking/Overview.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
             }
           },
           {
-            "id": "5e1e8c5fbabedc4e",
+            "id": "d458c197c24a39f8",
             "type": "leaf",
             "state": {
               "type": "tag",
@@ -120,12 +133,12 @@
             }
           },
           {
-            "id": "fc071e2b2dc436d5",
+            "id": "bc74375b51100005",
             "type": "leaf",
             "state": {
               "type": "outline",
               "state": {
-                "file": "Hexes/Expand Hex.md"
+                "file": "Type Checking/Overview.md"
               }
             }
           }
@@ -146,52 +159,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "73eb562fb0ff3722",
+  "active": "c58d840993107ea6",
   "lastOpenFiles": [
-    "Hexes/Make literal.md",
-    "Hexes/Expand Hex.md",
-    "Hexes/Print Hex.md",
-    "Sub-patterns/Expand Hex/Expand Layer.md",
-    "Sub-patterns/Loop Unrolling/Unroll Loop.md",
-    "Sub-patterns/Expand Hex/Expand Next Pattern.md",
-    "Sub-patterns/Expand Hex/Push into list.md",
-    "Sub-patterns/Expand Hex/Get Patterns to Extend.md",
-    "Hexes/Push to Dictionary.md",
-    "Sub-patterns/Loop Unrolling/Cursed Unroll Loop.md",
-    "Sub-patterns/Codify Hex/Create Next Process.md",
-    "Sub-patterns/Codify Hex/Add Loop Compatibility.md",
-    "Sub-patterns/Codify Hex/Setup Spacing Operation.md",
-    "Sub-patterns/Grab From Dictionary or Input.md",
-    "Sub-patterns/Codify Hex/Spacing Dictionary.md",
-    "Sub-patterns/Codify Hex/Remove Spacing.md",
-    "Sub-patterns/Codify Hex/Create Stringify Operation.md",
-    "Sub-patterns/Codify Hex/Stringify Pattern.md",
-    "Images/Grab From Dict or Input.png",
-    "Sub-patterns/Codify Hex/Literal - Pattern Name Dictionary.md",
-    "Sub-patterns/Codify Hex/Literal - Pattern Type.md",
-    "Sub-patterns/Expand Sub-Lists.md",
-    "Sub-patterns/Loop Unrolling/Unroll 2048.md",
-    "Sub-patterns/De-listify hex/Expand Next List.md",
-    "Sub-patterns/De-listify hex/Merge Next List.md",
-    "Sub-patterns/De-listify hex/Put list in intro retro.md",
-    "Sub-patterns/Pull Next Or Exit.md",
-    "Images/Stringify Pattern Test 1.png",
-    "Images/Setup Spacing Operation Test 1.png",
-    "Images/Put list in intro retro Test 1.png",
-    "Images/Push to Dictionary Test 1.png",
-    "Images/Push into List test 1.png",
-    "Images/Print Hex Test 1.png",
-    "Images/Merge Next List Test 1.png",
-    "Images/Make literal test 1.png",
-    "Images/Expand Sub-Lists Test 1.png",
-    "Sub-patterns/Iota Storage",
+    "Type Checking/Repeat Types.md",
+    "Type Checking/Overview.md",
+    "Type Checking/Option.md",
+    "Type Checking/Undecided and Lambda Types.md",
+    "Type Checking/Range Parameters and Math.md",
+    "Type Checking/Premise.md",
+    "Type Checking/Basic type checking.md",
     "Untitled.canvas",
-    "Hexes",
-    "Sub-patterns/Expand Hex",
-    "Sub-patterns/Loop Unrolling",
-    "Sub-patterns/De-listify hex",
-    "Sub-patterns/Codify Hex",
-    "Images",
-    "Sub-patterns"
+    "Type Checking"
   ]
 }
