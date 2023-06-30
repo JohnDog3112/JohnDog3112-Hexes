@@ -9,4 +9,3 @@ Numerical Reflection: 3
 Fisherman's Gambit II
 Intersection Distillation
 ```
-
