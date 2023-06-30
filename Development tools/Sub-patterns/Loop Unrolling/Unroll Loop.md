@@ -5,7 +5,9 @@ Summary:
 \--Copies a list n times and merges it into one list
 ![Unroll Loop logo](../../Images/Unroll%20Loop%20logo.png)
 
-![Cursed Unroll Loop Code](../../Images/Cursed%20Unroll%20Loop%20Code.png)]
+
+![](../../Images/Unroll%20Loop%20Code.png)
+
 
 Code:
 ```
