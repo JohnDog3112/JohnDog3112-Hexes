@@ -15,4 +15,8 @@ Code:
 * Abacus Purification
 * unknown: EAST qaqdaadaa
 * Hermes' Gambit
-* Bookkeeper's Gambit: v-v
+* Bookkeeper's Gambit: v
+* Jester's Gambit
+* Flock's Disintegration
+* Flock's Reflection
+* Fisherman's Gambit
