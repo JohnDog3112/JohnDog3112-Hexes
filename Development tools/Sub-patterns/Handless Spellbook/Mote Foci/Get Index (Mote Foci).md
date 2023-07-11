@@ -5,7 +5,7 @@ Description:
 * Finds and retrieves the mote for the main index spellbook
 
 
-![](../../../Images/Get%20Index%20(Mote%20Foci)%20Pattern.png)
+![](../../../Images/Get%20Index%20Pattern.png)
  
 ![](../../../Images/Get%20Index%20(Mote%20Foci)%20Code.png)
 

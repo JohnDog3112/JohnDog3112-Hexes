@@ -11,7 +11,7 @@ Summary:
 ![Retrieve Item](Images/Retrieve%20Item.png)
 Code:
 * Whisper Reflection
-* [Parse Input Logo](Images/Parse%20Input%20Logo.png)
+* [Parse Input](Parse%20Input.md)
 * Vacant Reflection
 * Stocktake Reflection
 * Gemini Decomposition
